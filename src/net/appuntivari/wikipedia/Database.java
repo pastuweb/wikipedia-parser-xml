@@ -14,7 +14,7 @@ import java.util.Vector;
  */
 public class Database {
 
-	/*test*/
+	/*test1*/
 	private String DBname;
 	private String passwd;
 	private String user;
