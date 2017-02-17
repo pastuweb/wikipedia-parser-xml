@@ -25,7 +25,7 @@ public class Main {
 	private static final int  tipoBioDb= 2;
 	private static final int  tipoDescrDb= 3;
 	
-	//test
+	//test1
 	
 	private static  boolean  storeDb = true;
 	private static  boolean  storeFile = true;
